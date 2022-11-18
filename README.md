@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @danielabfajardo
+- 👋 Hi, I’m Daniela Fajardo
 - 👀 I’m interested in Big Data & Blockchain Development
 - 🌱 I’m currently learning Advanced SQL & Solidity
-- 💞️ I’m currently working on a Big Data Movie Recommendation Website & a Blockchain Electronic Voting dApp
+- 💞️ I’m currently working on a Blockchain Electronic Voting dApp
 - 📫 How to reach me: @danielabfajardo on all social media
 
 <!---
