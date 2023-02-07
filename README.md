@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniela Fajardo
-- 👀 I’m interested in Big Data & Web Development
-- 🌱 I’m currently getting comfortable with Advanced SQL & React Native
-- 💞️ I’m currently working on a Realtime Chat App
+- 👀 I’m interested in Data Science & Software Engineering
+- 🌱 I’m currently getting comfortable with Data Manupulation & Advanced React 
+- 💞️ I’m currently working on a Data Analytics dashboard with helpful visualizations
 - 📫 How to reach me: @danielabfajardo on all social media
 
 <!---
