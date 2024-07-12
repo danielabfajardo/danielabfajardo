@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniela Fajardo
 - 👀 I’m interested in Data Science & Software Engineering
-- 🌱 I’m currently getting comfortable with Data Manupulation & Advanced React 
-- 💞️ I’m currently working on a Data Analytics dashboard with helpful visualizations
+- 🌱 I’m currently getting comfortable with Machine Learning
+- 💞️ I’m currently working on a Data Science Internship
 - 📫 How to reach me: @danielabfajardo on all social media
 
 <!---
