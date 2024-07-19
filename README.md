@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniela Fajardo
 - 👀 I’m interested in Data Science & Software Engineering
-- 🌱 I’m currently getting comfortable with Machine Learning
-- 💞️ I’m currently working on a Data Science Internship
+- 🌱 I’m currently focusing on Machine Learning
+- 💞️ I’m currently working on an LLM project
 - 📫 How to reach me: @danielabfajardo on all social media
 
 <!---
